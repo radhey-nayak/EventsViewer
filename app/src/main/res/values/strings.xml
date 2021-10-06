@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Events Viewer</string>
+    <string name="title_events">Events</string>
+    <string name="title_requests">Requests</string>
+    <string name="title_enrollments">Enrollments</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tournament_name">Tournament Name</string>
+    <string name="place">Place</string>
+    <string name="content">Content</string>
+    <string name="schedule">Report AT:\nSchedule</string>
+
+    <string-array name="e_name">
+        <item>Tournament 1</item>
+        <item>Tournament 2</item>
+        <item>Tournament 3</item>
+        <item>Tournament 4</item>
+        <item>Tournament 5</item>
+        <item>Tournament 6</item>
+        <item>Tournament 7</item>
+        <item>Tournament 8</item>
+    </string-array>
+
+    <string-array name="e_location">
+        <item>AI Warah Stadium</item>
+        <item>AI Khor Stadium</item>
+        <item>AI Janoub Stadium</item>
+        <item>AI khor Stadium</item>
+        <item>AI Warah Stadium</item>
+        <item>AI Khor Stadium</item>
+        <item>AI Janoub Stadium</item>
+        <item>AI khor Stadium</item>
+    </string-array>
+
+    <string-array name="e_content">
+        <item>AI Warah SC VS AL Khor SC</item>
+        <item>AI Warah SC VS AL Rayyan SC</item>
+        <item>UEFA Nations League</item>
+        <item>AI Warah SC VS AL Rayyan SC</item>
+        <item>Team 01 VS Team 02</item>
+        <item>Team 03 VS Team 04</item>
+        <item>Team 05 VS Team 06</item>
+        <item>Team 07 VS Team 08</item>
+    </string-array>
+    
+    <string-array name="e_schedule">
+        <item>22-May-2021, 7:00:00 AM</item>
+        <item>23-May-2021, 7:00:00 AM</item>
+        <item>24-May-2021, 7:30:00 AM</item>
+        <item>25-May-2021, 7:00:00 AM</item>
+        <item>26-May-2021, 7:00:00 AM</item>
+        <item>27-May-2021, 7:30:00 AM</item>
+        <item>28-May-2021, 7:00:00 AM</item>
+        <item>29-May-2021, 7:00:00 AM</item>
+    </string-array>
+
+</resources>
