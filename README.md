@@ -1,5 +1,5 @@
 # EventsViewer(UI)
-![image](https://user-images.githubusercontent.com/61424320/136228085-f744ca83-7f22-474a-bac0-4c53a699c9a3.png){:height="50%" width="50%"}
+![image](https://user-images.githubusercontent.com/61424320/136228085-f744ca83-7f22-474a-bac0-4c53a699c9a3.png =250x250)
 01
 ![image](https://user-images.githubusercontent.com/61424320/136228470-bb47122d-44ff-44ff-8be4-5c81db15b9fe.png)
 02
